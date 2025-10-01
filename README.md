@@ -101,10 +101,6 @@ console.log(JSON.stringify(arrA) === JSON.stringify(arrB)); // true
 
 ---
 
-# 🎯 15 More Tricky Questions
-
----
-
 ### **Q7. typeof null**
 
 ```js
